@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with projects
 - 💬 Ask me about Java 
 - 📫 How to reach me: s.zanzane2022@gmail.com
-- 😄 Pronouns: MR.SWaPNI
+- 😄 Pronouns: MR.SWAPNIL
 - ⚡ Fun fact: ALL ways Puzzels
 
