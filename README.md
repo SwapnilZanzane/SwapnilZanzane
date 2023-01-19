@@ -1,7 +1,7 @@
 ### Hi there 👋
 **SwapnilZanzane/SwapnilZanzane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is info about me :
 
 - 🔭 I’m currently working As TA in Coding Ninjas 
 - 🌱 I’m currently learning Java
