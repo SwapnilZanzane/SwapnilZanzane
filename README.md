@@ -4,7 +4,7 @@
 Here is info about me :
 
 - 🤔 I’m looking for help with projects
-- 💬 Ask me about Java 
+- 💬 Ask me about Azure Certification.
 - 📫 How to reach me: s.zanzane2022@gmail.com
 - 😄 Pronouns: MR.SWAPNIL
 - ⚡ Fun fact: ALL ways Puzzels
