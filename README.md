@@ -3,9 +3,9 @@
 
 Here is info about me :
 
-- 🤔 I’m looking for help with projects
-- 💬 Ask me about Azure Certification.
+- 🤔 I’m looking for exposure in Devops .
+- 💬 Eager to contribute in Devops task.
 - 📫 How to reach me: s.zanzane2022@gmail.com
 - 😄 Pronouns: MR.SWAPNIL
-- ⚡ Fun fact: ALL ways Puzzels
+
 
